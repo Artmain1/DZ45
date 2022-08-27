@@ -1,0 +1,15 @@
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.csproj.AssemblyReference.cache
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.GeneratedMSBuildEditorConfig.editorconfig
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.AssemblyInfoInputs.cache
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.AssemblyInfo.cs
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.csproj.CoreCompileInputs.cache
+C:\12\C#\DZ45\bin\Debug\net6.0\DZ45.exe
+C:\12\C#\DZ45\bin\Debug\net6.0\DZ45.deps.json
+C:\12\C#\DZ45\bin\Debug\net6.0\DZ45.runtimeconfig.json
+C:\12\C#\DZ45\bin\Debug\net6.0\DZ45.dll
+C:\12\C#\DZ45\bin\Debug\net6.0\DZ45.pdb
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.dll
+C:\12\C#\DZ45\obj\Debug\net6.0\refint\DZ45.dll
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.pdb
+C:\12\C#\DZ45\obj\Debug\net6.0\DZ45.genruntimeconfig.cache
+C:\12\C#\DZ45\obj\Debug\net6.0\ref\DZ45.dll
