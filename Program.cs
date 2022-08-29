@@ -2,18 +2,13 @@
 // 0, 7, 8, -2, -2 -> 2
 // 1, -7, 567, 89, 223-> 4
 
-Console.WriteLine("Введи число");
-int mum = Convert.ToInt32(Console.ReadLine());
-int[] num = new int [mum];
-int sam = 0;
+Console.Write("Введите числа разделяя их пробелами: ");
+string[] numbers = Console.ReadLine()!.Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-for (int i = 0; i < num.Length; i++)
-{   
-    Console.WriteLine("Введи число");
-    num[i] = Convert.ToInt32(Console.ReadLine());
-    if (num[i]>0)
-    {
-        sam++;
-    }
+int countPositive = 0;
+foreach (string item in numbers)
+{
+    if(Convert.ToInt32(item) > 0) countPositive++;
 }
-Console.WriteLine(sam);
+
+Console.WriteLine($"В массиве {string.Join(",", numbers)} положительных чисел {countPositive}.");
